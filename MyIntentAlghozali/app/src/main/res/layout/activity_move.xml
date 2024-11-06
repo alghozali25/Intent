@@ -5,25 +5,21 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MoveActivity"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin">
+    tools:context=".MoveActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/this_is_move_activity"/>
-
+        android:text="pindah aktifitas" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/activity_vertical_margin"
-        android:layout_marginLeft="@dimen/activity_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin"
-        android:text="@string/back_activity"
-        android:id="@+id/btn_back_activity"/>
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="aktifitas kembali"
+        android:id="@+id/btn_back_actifity" />
 
 </RelativeLayout>

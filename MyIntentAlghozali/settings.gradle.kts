@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Intent Alghozali"
+rootProject.name = "udin"
 include(":app")
  

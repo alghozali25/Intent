@@ -1,10 +1,7 @@
 <resources>
-    <string name="app_name">My Intent Alghozali</string>
-    <!--intent eksplist-->
-    <string name="move_activity">Pindah Aktivitas</string>
-    <string name="this_is_move_activity">Ini Hasil Pindah Aktivitas</string>
-    <string name="back_activity">Aktivitas Kembali</string>
-
-    <!--intent implist-->
-    <string name="dial_number">Aktivitas Menelepon</string>
+    <string name="app_name">udin</string>
+    <string name="MoveActivity">Pindah aktifitas</string>
+    <string name="MainActivity">Pindah Aktifitas</string>
+    <string name="back_aktifity">Aktifitas Kembali</string>
+    <string name="camera_actifity">Memotret</string>
 </resources>

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myintentalghozali"
+    namespace = "com.example.udin"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.myintentalghozali"
+        applicationId = "com.example.udin"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
